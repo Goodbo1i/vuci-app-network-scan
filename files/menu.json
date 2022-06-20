@@ -1,0 +1,7 @@
+{
+  "services/Netscan": {
+    "title": "Network Scan",
+    "index": 40,
+    "view": "vuci-app-network-scan"
+  }
+}
